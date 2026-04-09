@@ -14,7 +14,7 @@ A modern Arabic landing page for a technology startup.
 - JavaScript
 
 ## 🌐 Live Demo
-https://username.github.io/startup-landing-page
+https://mohamadreda66.github.io/startup-landing-page/
 
 ## 👨‍💻 Author
 Mohamed Reda
